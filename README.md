@@ -23,7 +23,7 @@ Clone this repo.
 ```
 git clone https://github.com/xueqinxiang/LLPA-GAN.git
 pip install -r requirements.txt
-cd DE-Net/code/
+cd LLPA-GAN/code/
 ```
 
 ## Preparation
@@ -35,7 +35,7 @@ cd DE-Net/code/
 
 ## Training
   ```
-  cd LAE-Net/code/
+  cd LLPA-GAN/code/
   ```
 ### Train the DE-Net model
   - For bird dataset: `bash scripts/train.sh ./cfg/bird.yml`
