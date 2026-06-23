@@ -1,9 +1,9 @@
-# LAE-Net
+# LLPA-GAN
 [![License CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC4.0-blue.svg)](https://github.com/tobran/DF-GAN/blob/master/LICENSE.md)
 ![Python 3.8](https://img.shields.io/badge/python-3.8-green.svg)
 ![Packagist](https://img.shields.io/badge/Pytorch-1.9.0-red.svg)
 ![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
-# LAE-Net: Large Pretrained Models Assistant Text-Guided Image Editing Adversarial Network
+# LLPA-GAN: Lightweight Large Pretrained Models Aided Generative Adversarial Networks for Text-to-Image Synthesis
 Official Pytorch implementation for our paper [LLPA-GAN: Lightweight Large Pretrained Models Aided
 Generative Adversarial Networks for Text-to-Image Synthesis]
 
